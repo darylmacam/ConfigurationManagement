@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConfigurationManagement.Json.DotNetCore": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "development"
+      }
+    }
+  }
+}

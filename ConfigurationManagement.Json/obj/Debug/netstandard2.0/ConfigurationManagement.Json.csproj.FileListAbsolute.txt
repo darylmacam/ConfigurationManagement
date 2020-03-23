@@ -1,0 +1,8 @@
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\bin\Debug\netstandard2.0\ConfigurationManagement.Json.deps.json
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\bin\Debug\netstandard2.0\ConfigurationManagement.Json.dll
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\obj\Debug\netstandard2.0\ConfigurationManagement.Json.csprojAssemblyReference.cache
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\obj\Debug\netstandard2.0\ConfigurationManagement.Json.AssemblyInfoInputs.cache
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\obj\Debug\netstandard2.0\ConfigurationManagement.Json.AssemblyInfo.cs
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\bin\Debug\netstandard2.0\ConfigurationManagement.Json.pdb
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\obj\Debug\netstandard2.0\ConfigurationManagement.Json.dll
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.Json\obj\Debug\netstandard2.0\ConfigurationManagement.Json.pdb

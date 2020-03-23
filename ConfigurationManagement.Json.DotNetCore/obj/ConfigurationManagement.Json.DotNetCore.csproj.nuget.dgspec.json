@@ -1,0 +1,147 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json.DotNetCore\\ConfigurationManagement.Json.DotNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json.DotNetCore\\ConfigurationManagement.Json.DotNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json.DotNetCore\\ConfigurationManagement.Json.DotNetCore.csproj",
+        "projectName": "ConfigurationManagement.Json.DotNetCore",
+        "projectPath": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json.DotNetCore\\ConfigurationManagement.Json.DotNetCore.csproj",
+        "packagesPath": "C:\\Users\\macam\\.nuget\\packages\\",
+        "outputPath": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json.DotNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\daryl-ecom-repo\\localnugetserver": {},
+          "http://nuget.ecomengine.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\ConfigurationManagement.Json.csproj": {
+                "projectPath": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\ConfigurationManagement.Json.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\ConfigurationManagement.Json.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\ConfigurationManagement.Json.csproj",
+        "projectName": "ConfigurationManagement.Json",
+        "projectPath": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\ConfigurationManagement.Json.csproj",
+        "packagesPath": "C:\\Users\\macam\\.nuget\\packages\\",
+        "outputPath": "C:\\daryl-repo\\SoftwareDevelopment\\ConfigurationManagement\\ConfigurationManagement.Json\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\macam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\daryl-ecom-repo\\localnugetserver": {},
+          "http://nuget.ecomengine.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

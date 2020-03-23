@@ -1,0 +1,6 @@
+﻿payments:
+  credentials:
+    username: youknowme
+    password: secretservice
+  service:
+    url: https://develop.paypal.com/

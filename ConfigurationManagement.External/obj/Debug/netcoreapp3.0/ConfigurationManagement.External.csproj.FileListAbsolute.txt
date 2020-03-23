@@ -1,0 +1,14 @@
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.exe
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.csprojAssemblyReference.cache
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.AssemblyInfoInputs.cache
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.AssemblyInfo.cs
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.deps.json
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.runtimeconfig.json
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.runtimeconfig.dev.json
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.dll
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\ConfigurationManagement.External.pdb
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\bin\Debug\netcoreapp3.0\System.Reactive.xml
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.csproj.CopyComplete
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.dll
+C:\daryl-repo\SoftwareDevelopment\ConfigurationManagement\ConfigurationManagement.External\obj\Debug\netcoreapp3.0\ConfigurationManagement.External.pdb

@@ -1,0 +1,3 @@
+﻿payments:
+  service:
+    url: https://www.paypal.com/

@@ -1,0 +1,6 @@
+﻿payments:
+  credentials:
+    username: warrenb
+    password: gimmemoolah
+  service:
+    url: https://develop.paypal.com/
